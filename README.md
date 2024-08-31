@@ -1,1 +1,1 @@
-# IT326---Data-Mining-Project
+# IT326 - Data Mining Project
